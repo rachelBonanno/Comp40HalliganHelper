@@ -1,0 +1,5 @@
+# TA Help
+alias duty="halligan40 on_duty"
+alias check="halligan40 check_queue"
+alias join="halligan40 join_queue"
+alias leave="halligan40 leave_queue"
