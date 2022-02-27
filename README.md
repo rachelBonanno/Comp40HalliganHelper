@@ -20,5 +20,5 @@ This command lists the current state of the queue. It will also list your locati
 ### halligan40 join_queue
 This command will add you and your partner to the queue. It will prompt you to supply your location and the name of your partner. You can add a qualifying detail if you'd like, such as "116 lab, green shirt" or "downstairs kitchen, blond hair," but don't be weird about it. You can also re-run the join queue command if you need to update your location or partner info without losing your spot in the queue.
 
-## halligan40 leave_queue
+### halligan40 leave_queue
 This command will remove you to the queue. Please remember to leave the queue if you are leaving Halligan. In general, we will be clearing out the queue before the first shift of office hours every day.
